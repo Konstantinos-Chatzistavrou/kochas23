@@ -4,15 +4,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kochas23&show_icons=true&theme=dark)
 
-🌐 Welcome to my GitHub profile, where I combine my passion for IT and cybersecurity.
-
 ## About Me
 
 I'm a cybersecurity enthusiast and dedicated advocate for online privacy. My journey in the world of technology has led me to take the lead in the development and maintenance of the **Threat-Watch** app.
 
 ## Threat-Watch: Cybersecurity News App
 
-🚀 Threat-Watch is the first open-source cybersecurity news app with a strong focus on privacy.
+🚀 Threat-Watch is the world's first open-source cybersecurity news app with a strong focus on privacy.
 
 🌐 Explore Threat-Watch: [App Repository](https://github.com/kochas23/Threat-Watch)
 
@@ -22,7 +20,7 @@ We're committed to delivering up-to-date, reliable cybersecurity news to empower
 
 ### Join the Team
 
-👥 We're always on the lookout for talented individuals to join our team and contribute to Threat-Watch's growth. Whether you're a developer, designer, cybersecurity enthusiast, or content creator, there's a place for you here.
+👥 We're always on the lookout for talented individuals to join our team and contribute to Threat-Watch's growth. Whether you're a developer, designer, cybersecurity enthusiast,tester or content creator, there's a place for you here.
 
 📢 Interested in joining our team? Feel free to reach out to me!
 
