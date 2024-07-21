@@ -2,7 +2,7 @@
 
 🔭 I'm the Project Manager and Lead of the Threat-Watch App's Maintenance Team.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kochas23&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Konstantinos-Chatzistavrou&show_icons=true&theme=dark)
 
 ## About Me
 
