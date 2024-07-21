@@ -28,7 +28,7 @@ We're committed to delivering up-to-date, reliable cybersecurity news to empower
 
 🚀 Privatify is a privacy-focused app recommendation tool that helps users find open source alternatives to the proprietary apps they use.
 
-🌐 Explore Privatify: [App Repository](https://github.com/kochas23/Privatify)
+🌐 Explore Privatify: [App Repository](https://github.com/Konstantinos-Chatzistavrou/Privatify)
 
 ### Our Mission
 
@@ -42,7 +42,8 @@ Privatify aims to promote the use of open source software by making it easy for 
 
 ## Let's Connect
 
-📫 You can reach out to me via email at: konstantinoschatzistavrou@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/konstantinos-chatzistavrou-59801b256).
+📫 You can reach out to me via email at: konstantinoschatzistavrou@gmail.com
+or connect with me on: [LinkedIn](https://www.linkedin.com/in/konstantinos-chatzistavrou-59801b256).
 
 ## Open to collaborations
 
