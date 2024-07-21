@@ -43,7 +43,9 @@ Privatify aims to promote the use of open source software by making it easy for 
 ## Let's Connect
 
 📫 You can reach out to me via email at: konstantinoschatzistavrou@gmail.com
-or connect with me on: [LinkedIn](https://www.linkedin.com/in/konstantinos-chatzistavrou-59801b256).
+
+or connect with me on:
+ [LinkedIn](https://www.linkedin.com/in/konstantinos-chatzistavrou-59801b256).
 
 ## Open to collaborations
 
