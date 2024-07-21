@@ -35,3 +35,5 @@ If you think your app or tool aligns with the goals of the Threat-Watch app don'
 ## Together for a Safer Digital World
 
 Let's collaborate and make the internet a safer place for everyone. Connect with me and let's discuss how we can drive positive change through technology and cybersecurity education.
+
+# Join the privacy revolution
